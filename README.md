@@ -74,7 +74,5 @@ Contribuições
 
 Se deseja contribuir para este projeto, sinta-se à vontade para sugerir melhorias ou implementar novas consultas e funcionalidades. Qualquer sugestão será bem-vinda!
 
-Contato
 
-Caso tenha dúvidas ou sugestões, entre em contato pelo e-mail: seuemail@exemplo.com.
 
